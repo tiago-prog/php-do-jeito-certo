@@ -3,15 +3,15 @@
 # 🚀 PHP: The Right Way – Starter Project This is a **basic PHP project** created step by step by following the guidelines from *PHP: The Right Way*.  
 It’s designed to be a **clean, minimal, and didactic example** of how to start a PHP project from scratch, using modern best practices.
 
---- ## 📂 Project Structure` 
+## 📂 Project Structure
 
-project/  
-│── public/ # Public files (index.php is the entry point)  
-│── src/ # Application logic (classes, database, models)  
-│── views/ # Templates (presentation layer)  
-│── tests/ # Unit tests  
-│── vendor/ # Composer dependencies  
-│── composer.json # Dependency manager config
+`project/`  
+│── `public/` # Public files (index.php is the entry point)  
+│── `src/` # Application logic (classes, database, models)  
+│── `views/` # Templates (presentation layer)  
+│── `tests/` # Unit tests  
+│── `vendor/` # Composer dependencies  
+│── `composer.json` # Dependency manager config
 
  ## ⚡ Features 
  - ✅  **PSR-4  Autoloading**  with  Composer  -  
